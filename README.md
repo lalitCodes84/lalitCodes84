@@ -16,7 +16,7 @@ A passionate full-stack web developer demonstrates a keen interest in crafting r
 
 - 📫 How to reach me **vickysharma71za@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1ITQEdYM14tewu2IgSv0DSLDjdurTBRqb" target="blank">resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1ITQEdYM14tewu2IgSv0DSLDjdurTBRqb/view" target="blank">resume</a>
 
 - ⚡ Fun fact **I'm a open university student.**
 
