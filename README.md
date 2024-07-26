@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-lalit-sharma-9813b4a257-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lalit-sharma-813b4a257-/)](https://www.linkedin.com/in/lalit-sharma-813b4a257/)
+[![Linkedin Badge](https://img.shields.io/badge/--813b4a257-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lalit-sharma-813b4a257-/)](https://www.linkedin.com/in/lalit-sharma-813b4a257/)
 [![GitHub followers](https://img.shields.io/github/followers/laliCodes84?label=Follow&style=social)](https://github.com/lalitCodes84/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-Lalit%20Sharma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vickysharma71za@gmail.com)](mailto:vickysharma71za@gmail.com)
 
