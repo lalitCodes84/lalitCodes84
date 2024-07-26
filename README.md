@@ -1,6 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-abhishek--bharti-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lalit-sharma-813b4a257-/)](https://www.linkedin.com/in/lalit-sharma-813b4a257/)
-[![GitHub followers](https://img.shields.io/github/followers/Abhishek-Bharti1?label=Follow&style=social)](https://github.com/LalitCodes84/?tab=follow)
-[![Gmail Badge](https://img.shields.io/badge/-Abhishek%20Bharti-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vickysharma71za@gmail.com)](mailto:vickysharma71za@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-lalit-sharma-9813b4a257-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lalit-sharma-813b4a257-/)](https://www.linkedin.com/in/lalit-sharma-813b4a257/)
+[![GitHub followers](https://img.shields.io/github/followers/laliCodes84?label=Follow&style=social)](https://github.com/lalitCodes84/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-Lalit%20Sharma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vickysharma71za@gmail.com)](mailto:vickysharma71za@gmail.com)
 
 
 
@@ -11,11 +11,10 @@ A passionate full-stack web developer demonstrates a keen interest in crafting r
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitCodes84&label=Profile%20views&color=0e75b6&style=flat" alt="lalitCodes84" /> </p>
 
-- 🔭 I’m currently working on [Honebi]
 
 - 💬 Ask me about **javascript, react, nodejs, expressjs**
 
-- 📫 How to reach me **abhishekbharti91550@gmail.com**
+- 📫 How to reach me **vickysharma71za@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1-1NB6z-L2vV_H3aDyNBGOD_tO0cJSck_/view?usp=drive_link" target="blank">resume</a>
 
