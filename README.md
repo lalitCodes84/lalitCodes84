@@ -37,7 +37,7 @@ A passionate full-stack web developer with expertise in modern technologies, ded
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="tailwindcss" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="tailwindcss" width="40" height="40" style="background:transparent"/></a>
   <a href="https://cloudinary.com/" target="_blank"> <img src="http://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png" width="40" height="40"/></a>
 </p>
 <h3>Stats: </h3>
