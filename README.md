@@ -37,8 +37,8 @@ A passionate full-stack web developer with expertise in modern technologies, ded
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://cloudinary.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png?20230715030042" alt="tailwindcss" width="40" height="40"/></a>
+  <a href="https://cloudinary.com/" target="_blank"> <img src="https://svglogos.net/wp-content/uploads/cloudinary.svg"/></a>
 </p>
 <h3>Stats: </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitCodes84&show_icons=true&locale=en&layout=compact" alt="lalitCodes84" /></p>
