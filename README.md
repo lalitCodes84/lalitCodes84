@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://www.linkedin.com/in/lalit-sharma-813b4a257/)]
+[![Linkedin Badge](https://img.shields.io/badge/--lalit-sharma-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/lalit-sharma-813b4a257-/)](https://www.linkedin.com/in/lalit-sharma-813b4a257/)
 [![GitHub followers](https://img.shields.io/github/followers/laliCodes84?label=Follow&style=social)](https://github.com/lalitCodes84/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-Lalit%20Sharma-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:vickysharma71za@gmail.com)](mailto:vickysharma71za@gmail.com)
 
@@ -10,7 +10,7 @@ A passionate full-stack web developer with expertise in modern technologies, ded
 
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, WebSockets, and Cloudinary**
 
-- 🚀 My Projects: <a href="https://my-gemini-flax.vercel.app/">My G-Gemini Project</a>
+- 🚀 My Projects: **[Gemini AI Chatbot](https://github.com/lalitCodes84/gemini-ai-chatbot)**
 
 - 📫 How to reach me **vickysharma71za@gmail.com**
 
@@ -31,14 +31,14 @@ A passionate full-stack web developer with expertise in modern technologies, ded
   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<!--   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> -->
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://image.pngaaa.com/779/6447779-middle.png" alt="tailwindcss" width="40" height="40" style="background:transparent"/></a>
-  <a href="https://cloudinary.com/" target="_blank"> <img src="http://res.cloudinary.com/cloudinary/image/upload/new_cloudinary_logo_square.png" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
+  <a href="https://cloudinary.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/></a>
 </p>
 <h3>Stats: </h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitCodes84&show_icons=true&locale=en&layout=compact" alt="lalitCodes84" /></p>
