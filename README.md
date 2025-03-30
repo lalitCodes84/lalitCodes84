@@ -10,7 +10,7 @@ A passionate full-stack web developer with expertise in modern technologies, ded
 
 - 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, WebSockets, and Cloudinary**
 
-- 🚀 My Projects: **[Gemini AI Chatbot](https://github.com/lalitCodes84/gemini-ai-chatbot)**
+- 🚀 My Projects: <a href="https://my-gemini-flax.vercel.app/"></a>
 
 - 📫 How to reach me **vickysharma71za@gmail.com**
 
