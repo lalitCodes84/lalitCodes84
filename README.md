@@ -8,7 +8,9 @@ A passionate full-stack web developer with expertise in modern technologies, ded
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lalitCodes84&label=Profile%20views&color=0e75b6&style=flat" alt="lalitCodes84" /> </p>
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, Docker, Kubernetes, WebSockets, and Cloudinary**
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, MongoDB, Redux, Tailwind CSS, WebSockets, and Cloudinary**
+
+- 🚀 My Projects: **[Gemini AI Chatbot](https://github.com/lalitCodes84/gemini-ai-chatbot)**
 
 - 📫 How to reach me **vickysharma71za@gmail.com**
 
@@ -32,13 +34,10 @@ A passionate full-stack web developer with expertise in modern technologies, ded
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/></a>
   <a href="https://cloudinary.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/cloudinary/cloudinary-icon.svg" alt="cloudinary" width="40" height="40"/></a>
 </p>
 <h3>Stats: </h3>
