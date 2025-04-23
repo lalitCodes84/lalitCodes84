@@ -40,6 +40,9 @@ A passionate full-stack web developer with expertise in modern technologies, ded
   <a href="https://cloudinary.com/" target="_blank"> <img src="https://svglogos.net/wp-content/uploads/cloudinary.svg"/></a>
 </p>
 <h3>Stats: </h3>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitCodes84&show_icons=true&locale=en&layout=compact" alt="lalitCodes84" /></p>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lalitCodes84&show_icons=true&locale=en" alt="lalitCodes84" /></p>
+
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=lalitCodes84&" alt="lalitCodes84" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=lalitCodes84&show_icons=true&locale=en" alt="lalitCodes84" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lalitCodes84&show_icons=true&locale=en&layout=compact" alt="lalitCodes84" /></p>
+
+
